@@ -1,0 +1,3 @@
+B = ones(1,4)
+C = ones(5,1)
+result = (B*A)*C  
